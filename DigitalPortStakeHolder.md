@@ -13,7 +13,7 @@ Digital portfolio's are normaly aimed at any employers depending what you're aim
 
 - _Candidates with skills_: 
 
-This is so they know what you're capable of and if you're right for the job.
+This is so they know what you are capable of and if you are right for the job.
 
 - _An image of how you look:_
 
