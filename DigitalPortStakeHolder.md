@@ -4,7 +4,21 @@
 
 
 An digital portfolio is a showcase that allows me to show off my skills, my experiences and present them in a way that is easy to understand for others. It has all the information on me on what I have done, what I can do and shows all my qualities/abilities to the employer. 
-Digital portfolio's are normaly aimed at any employers depending what you're aiming for. My portfolio is aimed at any IT company.
+Digital portfolio's are normally aimed at any employers depending what you're aiming for. My portfolio is aimed at any IT company.
+
+---
+Below, I will talk about the purpose of my portfolio, justify why it meets the needs of the audience and a showcase of any improvements that I have made to my portfolio and why. It will also evaluate my final digital portfolio design and justify any changes that were made.
+
+
+As my portfolio is set for future employment, I need to make sure that my digital portfolio will satisfy the audience needs by showcasing all my skills, achievements, interests and allow potential future employers to learn more about me. This is because the audience are the people who will review my digital portfolio and will check for my skills, achievements and interests that I have written in my digital portfolio and will meet the needs of the audience. 
+
+My digital portfolio also fulfils its purpose as I have included key elements that I have mentioned above (skills, achievements, interests and allow potential future employers to learn more about me), along with work samples that I included of my best work to show proof of the skills I have mentioned.
+
+The digital portfolio also looks professional, neat and organised which allows the audience navigate and go through without any problems. I have also included images to provide evidence to my content and included commentaries that justify my choice of content, which overall fulfils the purpose of the digital portfolio and will meet the needs of the audience.
+
+This is my [initial digital](https://sway.office.com/F31DTZTV19Ow6OU2?ref=Link) portfolio design that I plan to stick with. I stuck with this layout because I think that it would be easy for the audience to navigate through by simply scrolling down, as it is easy to do and very common. I also stuck with the text because the text font is big and clear to read, therefore it is easy to read and helpful for the audience with limited literacy skills and older adults who have visual impairments/difficulties. The only difference between my initial design and my final design is that my final design heading colours changed to palette 21 (black and white) instead of palette 13 (white and pastel blue). I changed this as I thought it may be difficult for some users to read who have visual impairments/difficulties, due to the 2 colours looking similar and blending towards each other if stared for too long.
+
+My timelines has not changed a lot, the order is the same. However, I decided to expand my dates on the bottom 2 boxes, 'Create Microsoft sway portfolio and design my portfolio' and Upload everything on github'. This is because I need more time to double check on everything and make sure I have included everything until I am happy to hand it in.
 
 ---
 ## **Employers**
