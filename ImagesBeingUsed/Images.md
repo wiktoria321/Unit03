@@ -1,1 +1,2 @@
 Most of the images are originally taken by me, except the backgrounds as they were found in the Microsoft sway site. The images that were taken by me are also my original work that I either taken or did myself. I have collected these images throughout the process of my digital portfolio and decided to include my overall best work to show proof of the skills I have mentioned.
+The background images (HeadRestOfBackgrounds and HeadDigitalPortBackground) are not original, I found them in the Microsoft Sway site. 
